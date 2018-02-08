@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/TeslaSDK.iml" filepath="$PROJECT_DIR$/.idea/TeslaSDK.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/python_sandbox/teslajson-master/.idea/teslajson-master.iml" filepath="$USER_HOME$/Downloads/python_sandbox/teslajson-master/.idea/teslajson-master.iml" />
     </modules>
   </component>
 </project>
